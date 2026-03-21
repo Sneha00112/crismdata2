@@ -1,0 +1,10 @@
+__pycache__/
+*.npy
+*.img
+.DS_Store
+Results/
+Analysis_Results/
+Final_Results/
+ML_Denoising_Results/
+Physics_Correction_Results/
+Stabilized_Physics_Results/
